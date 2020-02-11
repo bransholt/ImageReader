@@ -14,7 +14,7 @@ After you have installed tesseract, you must install all of the dependencies lis
 
 ## Installing Dependencies
 
-Inside the requirements.txt is a list of 3 packages required for this program to run. Insalling these dependencies is as simple as typing
+Inside the requirements.txt is a list of 3 packages required for this program to run. Insalling these dependencies is as simple as typing the below command into your anaconda prompt or in your terminal.
 
 >pip install -r requirements.txt
 
