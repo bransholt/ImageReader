@@ -12,7 +12,7 @@ import csv
 
 #find the file path for pytesseract and put it here. Typically is installed in this location for windows users. Put your 
 #user name in the USER space
-pytesseract.pytesseract.tesseract_cmd = r'C:\Users\USER\AppData\Local\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'\Tesseract-OCR\tesseract.exe'
 
 
 class ImageReader:
