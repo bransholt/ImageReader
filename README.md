@@ -8,7 +8,7 @@ The peice that holds this program together and makes it work is Google's Pytesse
 
 [Pytesseract Download Page](https://pypi.org/project/pytesseract/#files)
 
-In the ImageReader.py file, you must change the string in line 15 to have your username. Keep in mind that this filepath is where Tesseract is typically downloaded too, but that might not be the case for you. Make sure that you have found the location of this filepath. Without completing this step, this code will not work.
+In the ImageReader.py file, you must change the string in line 15 to have your username in the "/USER/" part of the string. Keep in mind that this filepath is where Tesseract is typically downloaded too, but that might not be the case for you. Make sure that you have found the location of this filepath. Without completing this step, this code will not work.
 
 After you have installed tesseract, you must install all of the dependencies listed in the requirements.txt file in the main directory. In order for this program to work you must have these dependencies installed.
 
