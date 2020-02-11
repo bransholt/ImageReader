@@ -1,0 +1,1 @@
+This directory is where you will place the PDFs or images that you need to be processed. 
